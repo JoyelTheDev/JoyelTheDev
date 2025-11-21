@@ -66,13 +66,13 @@ Domain	Arsenal
 📊 Battlefield Statistics & Intel
 
 > The metrics of mayhem.
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zyaris0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zyaris0&theme=react&hide_border=true&background=0D1117" />
-</p><p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyaris0&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" />
-  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=zyaris0&theme=react&no-bg=true&no-frame=true&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
+<p align="center">  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoyelTheDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117" />  
+</p>  <p align="center">  
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelTheDev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" />  
+  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=JoyelTheDev&theme=react&no-bg=true&no-frame=true&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" />  
+</p>  
 ---
 
 🎧 Now Infiltrating
