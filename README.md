@@ -56,15 +56,11 @@ public class Joyel {
 Domain	Arsenal
 
 💻 Languages	C++, Java,  Assembly (x86/x64)
+
 🕵️ Reverse Engineering	Ghidra, IDA Pro, x64dbg, Cheat Engine, JADX
+
 🎮 Minecraft Exploiting	Bytecode Manipulation (ASM), JNI, Mixins, Packet Injection, Fabric/Forge API
 
-
-<br><p align="center">
-  <img src="https://media.tenor.com/nH6xZBCLEsoAAAAd/gojo-domain-expansion.gif" width="400" alt="Gojo Domain Expansion">
-  <br>
-  <em>My code entering production...</em>
-</p>
 ---
 
 📊 Battlefield Statistics & Intel
@@ -111,7 +107,6 @@ Domain	Arsenal
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zyaris0&color=blueviolet&style=flat-square" alt="Profile views" />
   <br>
-  <img src="https://cdn.discordapp.com/attachments/1253307023391592500/1305466571749199872/c06c2b9f16567b653e62bea9698a7993.gif" width="150" alt="Gojo chill">
-</p>
+  <img src="https://cdn.discordapp.com/attachments/1253307
 ```
 ---
