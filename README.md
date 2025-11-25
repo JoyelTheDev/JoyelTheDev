@@ -112,7 +112,10 @@ public class Joyel {
 > "Are you the developer because you're Joyel, or are you Joyel because you're the developer?"
 
 
-</p>💬 Discord: joyelthedev
+<p align="center">
+  <a href="https://discord.com/users/1325834841266061312">
+    <img src="https://img.shields.io/badge/Discord-JoyelTheDev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 
 📧 Email: luckyfire989@gmail.com
 
