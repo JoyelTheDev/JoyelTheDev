@@ -25,6 +25,11 @@
   <img src="https://skillicons.dev/icons?i=java,cpp&theme=dark" alt="Languages"/>
 </p>
 
+### Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle&theme=dark" alt="Tools"/>
+</p>
+
 ---
 
 ### **🧾 Dev Profile (Java)**
