@@ -5,6 +5,9 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=650&height=100&lines=Java+%2F+C%2B%2B+Developer+%F0%9F%92%8E;Minecraft+Exploiter+%F0%9F%94%A5" alt="Typing SVG"/>
 </a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
 
 ---
 
