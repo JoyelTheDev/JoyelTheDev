@@ -87,9 +87,6 @@ public class Joyel {
 <p align="center">
   <!-- GitHub Stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoyelTheDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide_title=false&include_all_commits=true" />
-  <!-- Streak Stats - Very popular and motivational -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117" />
-</p>
 
 <p align="center">
   <!-- Top Languages -->
@@ -115,9 +112,6 @@ public class Joyel {
 > "Are you the developer because you're Joyel, or are you Joyel because you're the developer?"
 
 
-
-<p align="center">
-  <img src="https://media.tenor.com/kq3y_6kqz9YAAAAC/gojo-satoru-jujutsu-kaisen.gif" width="200" alt="Gojo Pointing">
 </p>💬 Discord: joyelthedev
 
 📧 Email: luckyfire989@gmail.com
