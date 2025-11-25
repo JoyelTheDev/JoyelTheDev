@@ -1,3 +1,4 @@
+👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=200&section=header&text=JoyelTheDev&fontSize=80&fontColor=ffffff&animation=twinkling"/>
 </div>
@@ -5,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=650&height=100&lines=Java+%2F+C%2B%2B+Developer+%F0%9F%92%8E;Minecraft+Exploiter+%F0%9F%94%A5" alt="Typing SVG"/>
 </a>
 
-👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
 
 <a href="https://ko-fi.com/yourkofi" target="_blank">
   <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="36" alt="Buy Me a Coffee at ko-fi.com" style="border-radius: 5px;" />
@@ -70,7 +70,7 @@ public class Joyel {
 
 
 
-### **Domain	Arsenal
+### Domain	Arsenal
 
 🕵️ Reverse Engineering	Ghidra, IDA Pro, x64dbg, Cheat Engine, JADX
 
