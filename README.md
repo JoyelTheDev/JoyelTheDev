@@ -18,7 +18,12 @@
 * 🎮 **Minecraft Focus:** Client Modification, Protocol Exploitation, Anti-Cheat Analysis, Server Crashers  
 * 🛠️ **Engineering:** Reverse Engineering, OS Dev, Weaponized Tool Development  
 * ⚔️ **Hobbies:** Arm Wrestling, Fighting, Consuming Anime & Building Strength (IRL & Digital)  
-* 💡 **Mindset:** Perpetually learning, constantly breaking, always building  
+* 💡 **Mindset:** Perpetually learning, constantly breaking, always building
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp&theme=dark" alt="Languages"/>
+</p>
 
 ---
 
@@ -54,8 +59,6 @@ public class Joyel {
 
 
 Domain	Arsenal
-
-💻 Languages	C++, Java,  Assembly (x86/x64)
 
 🕵️ Reverse Engineering	Ghidra, IDA Pro, x64dbg, Cheat Engine, JADX
 
