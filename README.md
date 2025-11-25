@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=200&section=header&text=JoyelTheDev&fontSize=80&fontColor=ffffff&animation=twinkling"/>
 </div>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=800&color=BB00FF&center=true&vCenter=true&width=650&height=100&lines=Java+%2F+C%2B%2B+Developer;Minecraft+Exploiter;API+Designer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=650&height=100&lines=Java+%2F+C%2B%2B+Developer+%F0%9F%92%8E;Minecraft+Exploiter+%F0%9F%94%A5;API+Designer+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
