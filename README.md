@@ -1,3 +1,9 @@
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=1nstagram&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+
+
 👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
 
 <a href="https://ko-fi.com/yourkofi" target="_blank">
