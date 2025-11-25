@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=650&height=100&lines=Java+%2F+C%2B%2B+Developer+%F0%9F%92%8E;Minecraft+Exploiter+%F0%9F%94%A5" alt="Typing SVG"/>
 </a>
 
-
-<a href="https://ko-fi.com/yourkofi" target="_blank">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="36" alt="Buy Me a Coffee at ko-fi.com" style="border-radius: 5px;" />
-</a>
-
 ---
 
 ## **☢️ Cybernetic Core Dump**
