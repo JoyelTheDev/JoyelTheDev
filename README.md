@@ -1,8 +1,6 @@
 <div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JoyelTheDev&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=200&section=header&text=JoyelTheDev&fontSize=80&fontColor=ffffff&animation=twinkling"/>
+</div>
 
 👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
 
