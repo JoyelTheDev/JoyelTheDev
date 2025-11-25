@@ -79,7 +79,6 @@ public class Joyel {
 
 > The metrics of mayhem.
 <p align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoyelTheDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117" />  
 </p>  <p align="center">  
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelTheDev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" />  
