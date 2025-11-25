@@ -62,9 +62,8 @@ public class Joyel {
 
 ---
 
-🧪 Tech & Weaponry
 
-> "The right tool for every exploit."
+###"The right tool for every exploit."
 
 
 
