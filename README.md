@@ -20,12 +20,12 @@
 * ⚔️ **Hobbies:** Arm Wrestling, Fighting, Consuming Anime & Building Strength (IRL & Digital)  
 * 💡 **Mindset:** Perpetually learning, constantly breaking, always building
 
-### Languages
+###                              Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp&theme=dark" alt="Languages"/>
 </p>
 
-### Frameworks & Tools
+###                             Frameworks & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle&theme=dark" alt="Tools"/>
 </p>
