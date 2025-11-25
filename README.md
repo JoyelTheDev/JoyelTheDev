@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=200&section=header&text=JoyelTheDev&fontSize=80&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=23,35,45&text=JoyelTheDev&fontColor=fff&fontSize=75&animation=fadeIn"/>
 </div>
 
 👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
