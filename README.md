@@ -21,7 +21,7 @@
   Commerce student — first year.
 
 * 🎮 **Minecraft Focus:** Client Modification, Protocol Exploitation, Anti-Cheat Analysis, Server Crashers  
-* 🛠️ **Engineering:** Reverse Engineering, OS Dev, Weaponized Tool Development  
+* 🛠️ **Engineering:** Reverse Engineering, Weaponized Tool Development  
 * ⚔️ **Hobbies:** Arm Wrestling, Fighting, Consuming Anime & Building Strength (IRL & Digital)  
 * 💡 **Mindset:** Perpetually learning, constantly breaking, always building
 
