@@ -71,7 +71,7 @@ public class Joyel {
 
 🕵️ Reverse Engineering	Ghidra, IDA Pro, x64dbg, Cheat Engine, JADX
 
-🎮 Minecraft Exploiting	Bytecode Manipulation (ASM), JNI, Mixins, Packet Injection, Fabric/Forge API
+🎮 Minecraft Exploiting, Bytecode Manipulation (ASM), JNI, Mixins, Packet Injection, Fabric API
 
 ---
 
