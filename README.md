@@ -42,13 +42,13 @@
 ```java
 public class Joyel {
     String name = "Joyel";
-    int age = 16;
+    int age = 17;
     String country = "India";
     String field = "Exploit Researcher @ Crasher";
     String studentStatus = "Commerce Student - First Year";
     String[] languages = {"Java", "C++"};
     String[] hobbies = {"Armwrestling", "Fighting"};
-    String funFact = "I break clients for fun.";
+    String funFact = "I break and develop for fun.";
 
     public void introduce() {
         System.out.println("Hey, I'm " + name + " — a " + age + "-year-old " + field + " from " + country + ".");
