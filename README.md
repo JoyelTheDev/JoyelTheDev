@@ -1,4 +1,4 @@
-👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
+# 👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=200&section=header&text=JoyelTheDev&fontSize=80&fontColor=ffffff&animation=twinkling"/>
 </div>
@@ -15,7 +15,7 @@
 
 <a href="https://github.com/zyaris0"><img align="left" width="150" src="./assets/563f120fc3c437ffbadeb84efe8f169a.jpg"></a>
 
-• A 16-year-old Minecraft security researcher & low-level developer from India, specializing in the art of digital chaos.  
+• A 17-year-old Minecraft security researcher & low-level developer from India, specializing in the art of digital chaos.  
   I find joy in bending software to its breaking point, from crafting elegant exploits to inducing catastrophic client crashes.  
   The glitch is my canvas.  
   Commerce student — first year.
