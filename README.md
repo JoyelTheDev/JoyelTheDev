@@ -84,20 +84,44 @@ public class Joyel {
 > *The metrics of mayhem.*
 
 <p align="center">
-  <img width="48%"
-    src="https://streak-stats.demolab.com?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117&cache_seconds=1800" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117&stroke=0000&ring=58A6FF&fire=FF6A00&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak Stats" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/JoyelTheDev">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoyelTheDev&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&cache_seconds=1800&hide=contribs" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelTheDev&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=1800&exclude_repo=github-readme-stats" alt="Top Languages" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoyelTheDev&theme=react&no-bg=true&no-frame=true&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&title=MultiLanguage,Stars,Commit,Issues,PullRequest,Repositories,Followers" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/JoyelTheDev?tab=repositories">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyelTheDev&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=58A6FF&point=58A6FF&line=238636&color=8B949E&title_color=58A6FF&custom_title=JoyelTheDev's%20Contribution%20Graph" alt="Activity Graph" width="98%">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoyelTheDev&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/JoyelTheDev?color=58A6FF&label=FOLLOWERS&style=flat-square" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/JoyelTheDev?color=58A6FF&label=TOTAL%20STARS&style=flat-square" alt="Total Stars" />
+  <img src="https://img.shields.io/github/last-commit/JoyelTheDev?color=58A6FF&label=LAST%20COMMIT&style=flat-square" alt="Last Commit" />
 </p>
 
 <p align="center">
-  <img width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelTheDev&theme=react&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&cache_seconds=1800" />
-  <img width="45%"
-    src="https://github-profile-trophy.vercel.app/?username=JoyelTheDev&theme=react&no-bg=true&no-frame=true&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-<p align="center">
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=JoyelTheDev&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117&mode=weekly" alt="GitHub Streak" width="49%" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoyelTheDev&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&layout=compact&langs_count=6&custom_title=Weekly%20Development%20Breakdown" alt="Wakatime Stats" width="49%" /></a>
 </p>
 
 ---
