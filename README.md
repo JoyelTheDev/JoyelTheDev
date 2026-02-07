@@ -150,6 +150,11 @@ public class Joyel {
   <a href="https://discord.com/users/1325834841266061312">
     <img src="https://img.shields.io/badge/Discord-JoyelTheDev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <p align="center">
+  <a href="https://x.com/JoyelTheDev">
+    <img src="https://img.shields.io/badge/X-@JoyelTheDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
 
 📧 Email: luckyfire989@gmail.com
 
