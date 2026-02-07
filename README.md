@@ -83,7 +83,7 @@ public class Joyel {
 <!-- Streak Stats -->
 <p align="center">
   <img width="48%"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117" />
+       src="https://streak-stats.demolab.com/?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117" />
 </p>
 
 <!-- Top Languages + Trophies -->
