@@ -85,19 +85,19 @@ public class Joyel {
 
 <p align="center">
   <img width="48%"
-    src="https://streak-stats.demolab.com?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117" />
+    src="https://streak-stats.demolab.com?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117&cache_seconds=1800" />
 </p>
 
 <p align="center">
   <img width="45%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelTheDev&theme=react&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelTheDev&theme=react&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&cache_seconds=1800" />
   <img width="45%"
     src="https://github-profile-trophy.vercel.app/?username=JoyelTheDev&theme=react&no-bg=true&no-frame=true&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 <p align="center">
   <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=JoyelTheDev&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117" />
+    src="https://github-readme-stats.vercel.app/api?username=JoyelTheDev&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
 </p>
 
 ---
