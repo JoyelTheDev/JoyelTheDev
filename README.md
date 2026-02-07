@@ -120,8 +120,12 @@ public class Joyel {
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117&mode=weekly" alt="GitHub Streak" width="49%" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoyelTheDev&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&layout=compact&langs_count=6&custom_title=Weekly%20Development%20Breakdown" alt="Wakatime Stats" width="49%" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117&mode=weekly" alt="GitHub Streak" width="49%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoyelTheDev&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&layout=compact&langs_count=6&custom_title=Weekly%20Development%20Breakdown" alt="Wakatime Stats" width="49%" />
+  </a>
 </p>
 
 ---
