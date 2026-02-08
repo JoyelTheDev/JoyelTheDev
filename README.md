@@ -152,7 +152,7 @@ public class Joyel {
   </a>
   <p align="center">
   <a href="https://x.com/JoyelTheDev">
-    <img src="https://img.shields.io/badge/X-@JoyelTheDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-@joyelishere-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
