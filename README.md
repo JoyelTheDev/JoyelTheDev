@@ -38,6 +38,7 @@
 </p>
 
 ---
+# Buy the fabric crashing client in here https://discord.gg/TT9aEydkgq
 
 ### **🧾 Dev Profile (Java)**
 
