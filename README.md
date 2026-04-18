@@ -32,7 +32,7 @@
 
 ###                             Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle,maven&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle,maven,ghidra&theme=dark" alt="Tools"/>
 </p>
 
 ---
