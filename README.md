@@ -11,8 +11,6 @@
 
 ---
 
-## **☢️ Cybernetic Core Dump**
-
 <a href="https://github.com/zyaris0"><img align="left" width="150" src="./assets/563f120fc3c437ffbadeb84efe8f169a.jpg"></a>
 
 • I am 17-year-old Minecraft security researcher & low-level developer from India, specializing in the art of digital chaos.  
@@ -40,15 +38,15 @@
 ---
 # Buy the fabric crashing client in here https://discord.gg/TT9aEydkgq
 
-### **🧾 Dev Profile (Java)**
+### **🧾 DevProfile.java**
 
 ```java
-public class Joyel {
+public class DevProfile {
     String name = "Joyel";
     int age = 17;
     String country = "India";
     String field = "Exploit Researcher @ Crasher";
-    String studentStatus = "Commerce Student - First Year";
+    String studentStatus = "Commerce Student - Second Year";
     String[] languages = {"Java", "C++"};
     String[] hobbies = {"Armwrestling", "Fighting"};
     String funFact = "I break and develop for fun.";
