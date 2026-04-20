@@ -118,9 +118,6 @@ public class DevProfile {
   <img src="https://img.shields.io/github/last-commit/JoyelTheDev?color=58A6FF&label=LAST%20COMMIT&style=flat-square" alt="Last Commit" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117&mode=weekly" alt="GitHub Streak" width="49%" />
   
 </p>
 
