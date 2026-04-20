@@ -18,7 +18,7 @@
   
  • I am music lover.
   The glitch is my canvas.  
-  Commerce student — first year.
+  Commerce student — second year.
 
 * 🎮 **Minecraft Focus:** Client Modification, Protocol Exploitation, Anti-Cheat Analysis, Server Crashers  
 * 🛠️ **Engineering:** Reverse Engineering, Weaponized Tool Development  
