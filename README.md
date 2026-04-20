@@ -1,4 +1,4 @@
- # 👋 Hi, I'm **Joyel** | `./hacker_mode --activate`
+ # 👋 Hi, I'm **Joyel** |
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=200&section=header&text=JoyelTheDev&fontSize=80&fontColor=ffffff&animation=twinkling"/>
 </div>
