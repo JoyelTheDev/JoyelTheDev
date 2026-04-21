@@ -77,9 +77,6 @@ public class DevProfile {
 
 ---
 
-📊 Battlefield Statistics & Intel
-
-> The metrics of mayhem.
 ## 📊 Battlefield Statistics & Intel  
 > *The metrics of mayhem.*
 
