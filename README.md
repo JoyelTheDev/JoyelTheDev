@@ -71,9 +71,9 @@ public class DevProfile {
 
 ### Domain	Arsenal
 
-🕵️ Reverse Engineering(My Toys)	Ghidra, IDA Pro, x64dbg, recaf, JADX, Jbytemod
+🕵️ My Toys: Ghidra, IDA Pro, x64dbg, recaf, JADX, JbyteMod, and more
 
-🎮 Minecraft Exploiting, Bytecode Manipulation (ASM), JNI, Mixins, Packet Injection, Fabric API, Velocity API
+💻 Bytecode Manipulation (ASM), JNI, Mixins, Packet Injection, Fabric API, Velocity API, 
 
 ---
 
