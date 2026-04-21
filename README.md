@@ -47,7 +47,7 @@ public class DevProfile {
     int age = 17;
     String country = "India";
     String field = "Exploit Researcher @ Crasher";
-    String studentStatus = "Commerce Student - Second Year";
+    String studentStatus = "12th Class Commerce Student";
     String[] languages = {"Java", "C++"};
     String[] hobbies = {"Armwrestling", "Fighting"};
     String funFact = "I break and develop for fun.";
