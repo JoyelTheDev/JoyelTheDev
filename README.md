@@ -14,6 +14,7 @@
 <a href="https://github.com/zyaris0"><img align="left" width="148" src="./assets/563f120fc3c437ffbadeb84efe8f169a.jpg"></a>
 
 • I am 17-year-old Minecraft security researcher & low-level developer from India, specializing in the art of digital chaos.
+
 • Second year commerce student.
   I find joy in bending software to its breaking point, from crafting elegant exploits to inducing catastrophic client crashes.
  • I am music lover.
