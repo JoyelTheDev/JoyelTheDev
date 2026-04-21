@@ -147,7 +147,7 @@ public class DevProfile {
   </a>
 </p>
 
-📧 Email: luckyfire989@gmail.com
+📧 Email: joyelthedev99@gmail.com
 
 🐱 GitHub: JoyelTheDev
 
