@@ -11,7 +11,7 @@
 
 ---
 
-<a href="https://github.com/zyaris0"><img align="left" width="150" src="./assets/563f120fc3c437ffbadeb84efe8f169a.jpg"></a>
+<a href="https://github.com/zyaris0"><img align="left" width="149" src="./assets/563f120fc3c437ffbadeb84efe8f169a.jpg"></a>
 
 • I am 17-year-old Minecraft security researcher & low-level developer from India, specializing in the art of digital chaos.
 • Second year commerce student.
