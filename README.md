@@ -38,6 +38,7 @@
 
 ---
 # Buy the fabric crashing client in here https://discord.gg/TT9aEydkgq
+# Get Free Claude Opus 4.6 on here https://agentrouter.org/register?aff=Osen
 
 ### **🧾 DevProfile.java**
 
