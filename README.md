@@ -1,47 +1,50 @@
- # 👋 Hi, I'm **Joyel** |
+# 👋 Hi, I'm **Joyel** |
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=200&section=header&text=JoyelTheDev&fontSize=80&fontColor=ffffff&animation=twinkling"/>
 </div>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=650&height=100&lines=Java+%2F+C%2B%2B+Developer+%F0%9F%92%8E;Minecraft+Exploiter+%F0%9F%94%A5" alt="Typing SVG"/>
-</a>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=650&height=100&lines=Java+%2F+C%2B%2B+Developer+%F0%9F%92%8E;Minecraft+Exploiter+%F0%9F%94%A5;Bytecode+Obfuscation+Researcher+%F0%9F%94%92" alt="Typing SVG"/>
+</a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 <a href="https://github.com/JoyelTheDev"><img align="left" width="147" src="./assets/563f120fc3c437ffbadeb84efe8f169a.jpg"></a>
 
-• I am 17-year-old Minecraft security researcher & low-level developer from India, specializing in the art of digital chaos.
+- I am a 17-year-old Minecraft security researcher & low-level developer from India, specializing in the art of digital chaos.
+- Second year commerce student.
+- Music lover.
 
-• Second year commerce student.
+<br>
 
-  
- • I am music lover.
-
- 
-
-* 🎮 **Minecraft Focus:** Client Modification, Protocol Exploitation, Anti-Cheat Analysis, Server Crashers  
-* 🛠️ **Engineering:** Reverse Engineering, Weaponized Tool Development  
-* ⚔️ **Hobbies:** Arm Wrestling, Fighting, Consuming Anime & Building Strength (IRL & Digital)  
+* 🎮 **Minecraft Focus:** Client Modification, Protocol Exploitation, Anti-Cheat Analysis, Server Crashers
+* 🛠️ **Engineering:** Reverse Engineering, Weaponized Tool Development
+* 🔒 **Currently Researching:** Java Bytecode Obfuscation — transforming, protecting, and breaking compiled class files at the ASM level
+* ⚔️ **Hobbies:** Arm Wrestling, Fighting, Consuming Anime & Building Strength (IRL & Digital)
 * 💡 **Mindset:** Perpetually learning, constantly breaking, always building
 
-###                              Languages
+<br clear="left"/>
+
+---
+
+### Languages
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp&theme=dark" alt="Languages"/>
 </p>
 
-###                             Frameworks & Tools
+### Frameworks & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle,maven,ghidra&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle,maven&theme=dark" alt="Tools"/>
 </p>
 
 ---
-# Buy the fabric crashing client in here https://discord.gg/TT9aEydkgq
-# Get Free Claude Opus 4.6 on here https://agentrouter.org/register?aff=Osen
 
-### **🧾 DevProfile.java**
+### 🧾 DevProfile.java
 
 ```java
 public class DevProfile {
@@ -52,34 +55,33 @@ public class DevProfile {
     String studentStatus = "12th Class Commerce Student";
     String[] languages = {"Java", "C++"};
     String[] hobbies = {"Armwrestling", "Fighting"};
+    String[] currentResearch = {"Java Bytecode Obfuscation", "ASM Transformations", "Anti-Cheat Bypass"};
     String funFact = "I break and develop for fun.";
 
     public void introduce() {
         System.out.println("Hey, I'm " + name + " — a " + age + "-year-old " + field + " from " + country + ".");
         System.out.println("I'm a " + studentStatus + " who loves " + String.join(" & ", hobbies) + ".");
         System.out.println("I code in " + String.join(", ", languages) + ".");
+        System.out.println("Currently deep in: " + String.join(", ", currentResearch) + ".");
         System.out.println("Fun Fact: " + funFact);
     }
 }
 ```
 
+---
+
+> *"The right tool for every exploit."*
+
+### 🕵️ Domain Arsenal
+
+- 🕵️ **My Toys:** Ghidra, IDA Pro, x64dbg, recaf, JADX, JbyteMod, and more
+- 💻 **Specialties:** Bytecode Manipulation (ASM), JNI, Mixins, Packet Injection, Fabric API, Velocity API
+- 🔒 **Deep Dive:** Java Bytecode Obfuscation — class file transformation, string encryption, control-flow obfuscation, reflection hijacking
 
 ---
 
+## 📊 Battlefield Statistics & Intel
 
-### "The right tool for every exploit."
-
-
-
-### Domain	Arsenal
-
-🕵️ My Toys: Ghidra, IDA Pro, x64dbg, recaf, JADX, JbyteMod, and more
-
-💻 Bytecode Manipulation (ASM), JNI, Mixins, Packet Injection, Fabric API, Velocity API, 
-
----
-
-## 📊 Battlefield Statistics & Intel  
 > *The metrics of mayhem.*
 
 <p align="center">
@@ -115,51 +117,36 @@ public class DevProfile {
   <img src="https://komarev.com/ghpvc/?username=JoyelTheDev&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/JoyelTheDev?color=58A6FF&label=FOLLOWERS&style=flat-square" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/JoyelTheDev?color=58A6FF&label=TOTAL%20STARS&style=flat-square" alt="Total Stars" />
-  <img src="https://img.shields.io/github/last-commit/JoyelTheDev?color=58A6FF&label=LAST%20COMMIT&style=flat-square" alt="Last Commit" />
-</p>
-
-  
 </p>
 
 ---
 
-🎧 Now Infiltrating
+🎧 **Now Infiltrating**
 
 > What's running in the background while I code?
 
-
-
-
-
-
 ---
 
-📡 Comms & Connect
+📡 **Comms & Connect**
 
-> "Are you the developer because you're Joyel, or are you Joyel because you're the developer?"
-
+> *"Are you the developer because you're Joyel, or are you Joyel because you're the developer?"*
 
 <p align="center">
   <a href="https://discord.com/users/1325834841266061312">
     <img src="https://img.shields.io/badge/Discord-JoyelTheDev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <p align="center">
+</p>
+<p align="center">
   <a href="https://x.com/JoyelTheDev">
     <img src="https://img.shields.io/badge/X-@joyelishere-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
-📧 Email: joyelthedev99@gmail.com
-
+📧 Email: joyelthedev99@gmail.com  
 🐱 GitHub: JoyelTheDev
-
-
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zyaris0&color=blueviolet&style=flat-square" alt="Profile views" />
-  <br>
-  <img src="https://cdn.discordapp.com/attachments/1253307
-```
----
+  <img src="https://komarev.com/ghpvc/?username=JoyelTheDev&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
