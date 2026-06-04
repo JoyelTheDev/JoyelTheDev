@@ -25,7 +25,7 @@ I am a 17-year-old Minecraft security researcher & low-level developer from Indi
 
 🎮 **Minecraft Focus:** Client Modification, Protocol Exploitation, Anti-Cheat Analysis, Server Crashers<br>
 🛠️ **Engineering:** Reverse Engineering, Weaponized Tool Development<br>
-🔒 **Currently Researching:** Java Bytecode Obfuscation Transforming, Protecting, and Breaking Compiled Class Files At The ASM Level<br>
+🔒 **Currently Researching:** Java Bytecode Obfuscation Transforming And Protecting<br>
 ⚔️ **Hobbies:** Arm Wrestling, Fighting, Consuming Anime & Building Strength (IRL & Digital)<br>
 💡 **Mindset:** Perpetually learning, constantly breaking, always building
 
