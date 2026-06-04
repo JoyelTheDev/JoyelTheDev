@@ -12,21 +12,26 @@
 
 ---
 
-<a href="https://github.com/JoyelTheDev"><img align="left" width="147" src="./assets/563f120fc3c437ffbadeb84efe8f169a.jpg"></a>
+<table>
+<tr>
+<td width="160" valign="top">
+  <a href="https://github.com/JoyelTheDev">
+    <img src="./assets/563f120fc3c437ffbadeb84efe8f169a.jpg" width="147" style="border-radius:8px"/>
+  </a>
+</td>
+<td valign="top">
 
-- I am a 17-year-old Minecraft security researcher & low-level developer from India, specializing in the art of digital chaos.
-- Second year commerce student.
-- Music lover.
+I am a 17-year-old Minecraft security researcher & low-level developer from India, specializing in the art of digital chaos. Second year commerce student. Music lover.
 
-<br>
+🎮 **Minecraft Focus:** Client Modification, Protocol Exploitation, Anti-Cheat Analysis, Server Crashers<br>
+🛠️ **Engineering:** Reverse Engineering, Weaponized Tool Development<br>
+🔒 **Currently Researching:** Java Bytecode Obfuscation Transforming, Protecting, and Breaking Compiled Class Files At The ASM Level<br>
+⚔️ **Hobbies:** Arm Wrestling, Fighting, Consuming Anime & Building Strength (IRL & Digital)<br>
+💡 **Mindset:** Perpetually learning, constantly breaking, always building
 
-* 🎮 **Minecraft Focus:** Client Modification, Protocol Exploitation, Anti-Cheat Analysis, Server Crashers
-* 🛠️ **Engineering:** Reverse Engineering, Weaponized Tool Development
-* 🔒 **Currently Researching:** Java Bytecode Obfuscation Transforming, Protecting.
-* ⚔️ **Hobbies:** Arm Wrestling, Fighting, Consuming Anime & Building Strength (IRL & Digital)
-* 💡 **Mindset:** Perpetually learning, constantly breaking, always building
-
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ---
 
