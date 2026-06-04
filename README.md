@@ -22,7 +22,7 @@
 
 * 🎮 **Minecraft Focus:** Client Modification, Protocol Exploitation, Anti-Cheat Analysis, Server Crashers
 * 🛠️ **Engineering:** Reverse Engineering, Weaponized Tool Development
-* 🔒 **Currently Researching:** Java Bytecode Obfuscation Transforming, Protecting, and breaking compiled class files at the ASM level
+* 🔒 **Currently Researching:** Java Bytecode Obfuscation Transforming, Protecting.
 * ⚔️ **Hobbies:** Arm Wrestling, Fighting, Consuming Anime & Building Strength (IRL & Digital)
 * 💡 **Mindset:** Perpetually learning, constantly breaking, always building
 
