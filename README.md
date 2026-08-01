@@ -25,7 +25,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <strong>Languages:</strong><br>
   <img src="https://skillicons.dev/icons?i=java,cpp&theme=dark" alt="Languages"/>
 </p>
