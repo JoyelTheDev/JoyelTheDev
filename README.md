@@ -1,199 +1,64 @@
 # 👋 Hi, I'm **Joyel**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=200&section=header&text=JoyelTheDev&fontSize=80&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=180&section=header&text=JoyelTheDev&fontSize=70&fontColor=ffffff&animation=twinkling"/>
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=650&height=100&lines=Java+%2F+C%2B%2B+Developer+%F0%9F%92%8E;Minecraft+Security+Researcher+%F0%9F%94%A5;Bytecode+Obfuscation+Researcher+%F0%9F%94%92" alt="Typing SVG"/>
-</a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-<table>
-<tr>
-<td width="160" valign="top">
-  <a href="https://github.com/JoyelTheDev">
-    <img src="./assets/563f120fc3c437ffbadeb84efe8f169a.jpg" width="147" style="border-radius:8px"/>
-  </a>
-</td>
-<td valign="top">
-
-17-year-old developer and commerce student from India, focused on low-level programming, Minecraft security, and reverse engineering.
-
-🎮 **Minecraft Focus:** Client Modification, Protocol Analysis, Anti-Cheat Security, Server Vulnerabilities<br>
-🛠️ **Engineering:** Reverse Engineering & Security Tool Development<br>
-🔒 **Currently Researching:** Java Bytecode Obfuscation, Transformation, & Code Protection<br>
-⚔️ **Hobbies:** Arm Wrestling, Anime, & Fitness<br>
-💡 **Mindset:** Constantly learning, analyzing code, and building better tools.
-
-</td>
-</tr>
-</table>
-
----
-
-### Languages
-
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=550&height=50&lines=Java+%2F+C%2B%2B+Developer;Minecraft+Security+Researcher;Bytecode+Obfuscation+Researcher" alt="Typing SVG"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+17-year-old commerce student & developer from India focused on low-level programming, Minecraft security, and reverse engineering.
+
+* 🎮 **Minecraft:** Client Modification, Protocol Analysis, Server Vulnerabilities
+* 🔒 **Research:** Java Bytecode Obfuscation, ASM Transformations, Anti-Cheat Analysis
+* 🛠️ **Tools:** Ghidra, IDA Pro, x64dbg, Recaf, JADX, JbyteMod
+* 🏋️ **Hobbies:** Arm Wrestling, Anime, & Fitness
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <strong>Languages:</strong><br>
   <img src="https://skillicons.dev/icons?i=java,cpp&theme=dark" alt="Languages"/>
 </p>
 
-### Frameworks & Tools
-
-<p align="center">
+<p align="left">
+  <strong>Tools & Frameworks:</strong><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle,maven&theme=dark" alt="Tools"/>
 </p>
 
 ---
 
-### 🧾 DevProfile.java
-
-```java
-public class DevProfile {
-    String name = "Joyel";
-    int age = 17;
-    String country = "India";
-    String field = "Minecraft Security Researcher & Developer";
-    String studentStatus = "Commerce Student";
-    String[] languages = {"Java", "C++"};
-    String[] hobbies = {"Armwrestling", "Fitness"};
-    String[] currentResearch = {"Java Bytecode Obfuscation", "ASM Transformations", "Anti-Cheat Analysis"};
-    String funFact = "I love breaking code down and understanding how it works.";
-
-    public void introduce() {
-        System.out.println("Hey, I'm " + name + " — a " + age + "-year-old " + field + " from " + country + ".");
-        System.out.println("I'm a " + studentStatus + " who enjoys " + String.join(" & ", hobbies) + ".");
-        System.out.println("I code in " + String.join(", ", languages) + ".");
-        System.out.println("Currently deep in: " + String.join(", ", currentResearch) + ".");
-        System.out.println("Fun Fact: " + funFact);
-    }
-}
-```
-
----
-
-> *"Building, analyzing, and securing software."*
-
-### 🕵️ Tools & Expertise
-
-- 🕵️ **Tools:** Ghidra, IDA Pro, x64dbg, Recaf, JADX, JbyteMod
-- 💻 **Specialties:** Bytecode Manipulation (ASM), JNI, Mixins, Packet Injection, Fabric API, Velocity API
-- 🔒 **Deep Dive:** Java Bytecode Obfuscation — Class transformation, string encryption, control-flow obfuscation, reflection analysis
-
----
-
-## 📊 Activity & Statistics
+### 📊 Stats
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117&stroke=0000&ring=58A6FF&fire=FF6A00&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoyelTheDev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelTheDev&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&layout=compact" alt="Top Languages" />
 </p>
 
-<br>
-
 <p align="center">
-  <a href="https://github.com/JoyelTheDev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoyelTheDev&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&cache_seconds=1800&hide=contribs" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelTheDev&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=1800&exclude_repo=github-readme-stats" alt="Top Languages" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoyelTheDev&theme=react&no-bg=true&no-frame=true&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&title=MultiLanguage,Stars,Commit,Issues,PullRequest,Repositories,Followers" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/JoyelTheDev?tab=repositories">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyelTheDev&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=58A6FF&point=58A6FF&line=238636&color=8B949E&title_color=58A6FF&custom_title=JoyelTheDev's%20Contribution%20Graph" alt="Activity Graph" width="98%">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoyelTheDev&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/JoyelTheDev?color=58A6FF&label=FOLLOWERS&style=flat-square" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/JoyelTheDev?color=58A6FF&label=TOTAL%20STARS&style=flat-square" alt="Total Stars" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117&stroke=0000&ring=58A6FF&fire=FF6A00&currStreakLabel=58A6FF&sideLabels=58A6FF" alt="GitHub Streak" />
 </p>
 
 ---
 
-📡 **Connect**
+### 📡 Connect
 
-<p align="center">
+<p align="left">
   <a href="https://discord.com/users/1325834841266061312">
     <img src="https://img.shields.io/badge/Discord-JoyelTheDev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-</p>
-<p align="center">
   <a href="https://x.com/JoyelTheDev">
     <img src="https://img.shields.io/badge/X-@joyelishere-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
-📧 Email: joyelthedev99@gmail.com  
-🐱 GitHub: JoyelTheDev
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoyelTheDev&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&cache_seconds=1800&hide=contribs" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelTheDev&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=1800&exclude_repo=github-readme-stats" alt="Top Languages" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoyelTheDev&theme=react&no-bg=true&no-frame=true&column=7&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&margin-h=15&title=MultiLanguage,Stars,Commit,Issues,PullRequest,Repositories,Followers" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/JoyelTheDev?tab=repositories">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyelTheDev&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=58A6FF&point=58A6FF&line=238636&color=8B949E&title_color=58A6FF&custom_title=JoyelTheDev's%20Contribution%20Graph" alt="Activity Graph" width="98%">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoyelTheDev&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/JoyelTheDev?color=58A6FF&label=FOLLOWERS&style=flat-square" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/JoyelTheDev?color=58A6FF&label=TOTAL%20STARS&style=flat-square" alt="Total Stars" />
-</p>
-
----
-
-🎧 **Now Infiltrating**
-
-> What's running in the background while I code?
-
----
-
-📡 **Comms & Connect**
-
-> *"Are you the developer because you're Joyel, or are you Joyel because you're the developer?"*
-
-<p align="center">
-  <a href="https://discord.com/users/1325834841266061312">
-    <img src="https://img.shields.io/badge/Discord-JoyelTheDev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://x.com/JoyelTheDev">
-    <img src="https://img.shields.io/badge/X-@joyelishere-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
-
-📧 Email: joyelthedev99@gmail.com  
-🐱 GitHub: JoyelTheDev
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoyelTheDev&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+📧 **Email:** joyelthedev99@gmail.com
