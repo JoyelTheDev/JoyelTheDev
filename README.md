@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=550&height=50&lines=Java+%2F+C%2B%2B+Developer;Minecraft+Security+Researcher;Bytecode+Obfuscation+Researcher" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=550&height=50&lines=Java+%2F+C%2B%2B+Developer;Minecraft+Security+Researcher" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=java,cpp&theme=dark" alt="Languages"/>
 </p>
 
-<p align="left">
+<p align="center">
   <strong>Tools & Frameworks:</strong><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle,maven&theme=dark" alt="Tools"/>
 </p>
