@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=550&height=50&lines=Java+%2F+C%2B%2B+Developer;Minecraft+Security+Researcher" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=550&height=50&lines=Java+%2F+C%2B%2B+Developer;Minecraft+Security+Researcher;Bytecode+Obfuscation+Researcher" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -14,12 +14,12 @@
 
 ### 👨‍💻 About Me
 
-17-year-old commerce student & developer from India focused on low-level programming, Minecraft security, and reverse engineering.
+I'm a 17-year-old commerce student and developer from **Kerala, India**. I spend my time exploring low-level programming, Minecraft security, and understanding how code works under the hood. When I'm not coding, I enjoy hands-on creative stuff and staying active.
 
 * 🎮 **Minecraft:** Client Modification, Protocol Analysis, Server Vulnerabilities
 * 🔒 **Research:** Java Bytecode Obfuscation, ASM Transformations, Anti-Cheat Analysis
 * 🛠️ **Tools:** Ghidra, IDA Pro, x64dbg, Recaf, JADX, JbyteMod
-* 🏋️ **Hobbies:** Arm Wrestling, Anime, & Fitness
+* ✂️ **Hobbies & Interests:** Papercraft, Arm Wrestling, Anime, Music, & Fitness
 
 ---
 
@@ -52,7 +52,7 @@
 
 ### 📡 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/1325834841266061312">
     <img src="https://img.shields.io/badge/Discord-JoyelTheDev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
