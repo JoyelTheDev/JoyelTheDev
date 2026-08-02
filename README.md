@@ -32,7 +32,7 @@ I'm a 17-year-old 2nd year commerce student and developer from **Kerala, India**
 
 <p align="center">
   <strong>Tools & Frameworks:</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle,maven&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle,maven,docker,eclipse&theme=dark" alt="Tools"/>
 </p>
 
 ---
