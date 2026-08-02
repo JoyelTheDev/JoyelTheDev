@@ -4,12 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=180&section=header&text=JoyelTheDev&fontSize=70&fontColor=ffffff&animation=twinkling"/>
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=FF003C&center=true&vCenter=true&width=550&height=50&lines=Java+%2F+C%2B%2B+Developer;Minecraft+Security+Researcher;Bytecode+Obfuscation+Researcher" alt="Typing SVG"/>
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
