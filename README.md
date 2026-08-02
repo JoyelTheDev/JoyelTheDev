@@ -14,12 +14,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a 17-year-old commerce student and developer from **Kerala, India**. I spend my time exploring low-level programming, Minecraft security, and understanding how code works under the hood. When I'm not coding, I enjoy hands-on creative stuff and staying active.
+I'm a 17-year-old 2nd year commerce student and developer from **Kerala, India**. I spend my time exploring low-level programming, minecraft security. When I'm not coding, I enjoy hands on creative stuff and staying active.
 
 * 🎮 **Minecraft:** Client Modification, Protocol Analysis, Server Vulnerabilities
 * 🔒 **Research:** Java Bytecode Obfuscation, ASM Transformations, Anti-Cheat Analysis
 * 🛠️ **Tools:** Ghidra, IDA Pro, x64dbg, Recaf, JADX, JbyteMod
-* ✂️ **Hobbies & Interests:** Papercraft, Arm Wrestling, Anime, Music, & Fitness
+* ✂️ **Hobbies & Interests:** PaperCraft, ArmWrestling, Anime, Music, & Fitness
 
 ---
 
