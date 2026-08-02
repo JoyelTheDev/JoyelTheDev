@@ -21,7 +21,7 @@ I'm a 17-year-old 2nd year commerce student and developer from **Kerala, India**
 
 <p align="center">
   <strong>Languages:</strong><br>
-  <img src="https://skillicons.dev/icons?i=java,cpp&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp&,htmltheme=dark" alt="Languages"/>
 </p>
 
 <p align="center">
