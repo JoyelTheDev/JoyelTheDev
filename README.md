@@ -34,13 +34,14 @@
 ### 📊 Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoyelTheDev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelTheDev&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&layout=compact" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=JoyelTheDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoyelTheDev&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyelTheDev&theme=react&hide_border=true&background=0D1117&stroke=0000&ring=58A6FF&fire=FF6A00&currStreakLabel=58A6FF&sideLabels=58A6FF" alt="GitHub Streak" />
+  <img width="96%" src="https://streak-stats.demolab.com/?user=JoyelTheDev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
+
 
 ---
 
