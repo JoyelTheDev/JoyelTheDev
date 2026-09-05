@@ -15,7 +15,8 @@
 * 🛠️ **Tools:** Ghidra, IDA Pro, x64dbg, Recaf, JADX, JbyteMod... etc
 * ✂️ **Hobbies & Interests:** PaperCraft, ArmWrestling, Anime, Music, & Fitness
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:58a6ff&height=80&section=footer" width="100%"/>
+
 
 
 ### 🛠️ Tech Stack
