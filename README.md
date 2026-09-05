@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-17-year-old commerce student and developer based in Kerala, India. Passionate about low-level programming, reverse engineering, and Minecraft security. Outside of development, you'll find me working on creative crafts or staying active.
+17-year-old commerce student and developer based in **Kerala,** India. Passionate about low-level programming, reverse engineering, and Minecraft security. Outside of development, you'll find me working on creative crafts or staying active.
 
 * 🎮 **Minecraft Development:** Client Modification, Protocol Analysis, Server Vulnerabilities
 * 🔒 **Research:** Java Bytecode Obfuscation, ASM Transformations, Anti-Cheat Analysis
