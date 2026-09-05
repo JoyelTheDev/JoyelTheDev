@@ -57,7 +57,11 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-github-readme.vercel.app/api?type=compact-card&userId=31no7fwdy7fkcxyayrseqql2i7si&theme=novatorem" alt="Spotify Listening" />
+  <img src="https://img.shields.io/badge/Ghidra-DarkRed?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/x64dbg-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_Bytecode-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-1f425f?style=flat-square&logo=linux&logoColor=white" />
 </p>
+
 
 📧 **Email:** joyelthedev99@gmail.com
