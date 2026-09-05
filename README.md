@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,gradle,maven,eclipse&theme=dark" alt="Tools"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=60&section=footer" width="100%"/>
 
 ### 📊 Stats
 
@@ -44,7 +44,7 @@
 </p>
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=60&section=footer" width="100%"/>
 
 ### 📡 Connect
 
