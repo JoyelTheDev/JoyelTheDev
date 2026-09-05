@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=180&section=header&text=JoyelTheDev&fontSize=70&fontColor=ffffff&animation=twinkling"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:7928ca&height=70&section=footer" width="100%"/>
 
 ### 👨‍💻 About Me
 
