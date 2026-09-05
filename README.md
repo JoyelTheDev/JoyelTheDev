@@ -56,4 +56,8 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://spotify-github-readme.vercel.app/api?type=compact-card&userId=31no7fwdy7fkcxyayrseqql2i7si&theme=novatorem" alt="Spotify Listening" />
+</p>
+
 📧 **Email:** joyelthedev99@gmail.com
