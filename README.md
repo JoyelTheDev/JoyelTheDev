@@ -21,7 +21,7 @@
 
 <p align="center">
   <strong>Languages:</strong><br>
-  <img src="https://skillicons.dev/icons?i=java,cpp,html&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,shell&theme=dark" alt="Languages"/>
 </p>
 
 <p align="center">
