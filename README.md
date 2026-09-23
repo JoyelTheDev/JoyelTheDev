@@ -3,8 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=180&section=header&text=JoyelTheDev&fontSize=70&fontColor=ffffff&animation=twinkling"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161b22,50:30363d,100:58a6ff&height=60&section=footer" width="100%"/>
+--------
 
 ### 👨‍💻 About Me
 
@@ -54,13 +53,6 @@
   <a href="https://x.com/JoyelTheDev">
     <img src="https://img.shields.io/badge/X-@joyelishere-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ghidra-DarkRed?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/x64dbg-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_Bytecode-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-1f425f?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 
