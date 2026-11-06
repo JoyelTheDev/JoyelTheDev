@@ -9,7 +9,6 @@
 
 * 🎮 **Minecraft Development:** Client Modification, Protocol Analysis, Server Vulnerabilities
 * 🔒 **Research:** Java Bytecode Obfuscation, ASM Transformations, Anti-Cheat Analysis
-* 🛠️ **Tools:** Ghidra, IDA Pro, x64dbg, Recaf, JADX, JbyteMod... etc
 * ✂️ **Hobbies & Interests:** PaperCraft, ArmWrestling, Anime, Music, & Fitness
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:7928ca&height=70&section=footer" width="100%"/>
